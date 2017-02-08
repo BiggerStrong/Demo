@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  testLocalizations
+
+  Created by yuqiang on 2017/2/6.
+  Copyright © 2017年 yuqiang. All rights reserved.
+*/
+
+CFBundleDisplayName = "안녕 하세요";

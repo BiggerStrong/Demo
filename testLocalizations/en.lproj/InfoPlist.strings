@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  testLocalizations
+
+  Created by yuqiang on 2017/2/6.
+  Copyright © 2017年 yuqiang. All rights reserved.
+*/
+
+
+// Localizable App Name是App在英语环境环境下显示的名称
+CFBundleDisplayName = "Localizable App Name";
